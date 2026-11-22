@@ -21,7 +21,3 @@
 1. Make sure **Python 3** is installed on your Windows PC.
 2. Download `Siber Koruyucu PRO.pyw` from this repository.
 3. Double-click `Siber Koruyucu PRO.pyw` to launch the application directly with no background terminal window.
-
-## 👨‍💻 About the Developer
-
-Developed by a 10-year-old young software developer and **DENEYAP Technology Workshops** student passionate about cybersecurity, artificial intelligence, and engineering.
